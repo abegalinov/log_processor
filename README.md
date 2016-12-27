@@ -7,11 +7,11 @@ How to run this code:
 
 2) Install the libraries: `Apache::Log::Parser`, `GeoIP2`
 
-3) Find any apache access log file, for example from the link below:
+3) Find any apache access log file
 
 4) And enjoy:
 
 `~$ ./test.pl GeoLite2-City.mmdb access.log`
 
 
-Amir Begalinov <begalinov.amir@gmail.com>
+(c) Amir Begalinov
